@@ -1,5 +1,5 @@
 # Vigenere Cipher - C++
-Criei interesse pela cifra de Vigenère após utilizá-la em um desafio, então resolvi aprender mais sobre. Neste repositório, você encontrará uma breve explicação de como a cifra funciona,
+Criei interesse pela cifra de Vigenère após utilizá-la em um desafio, então resolvi aprender mais sobre ela. Neste repositório, você encontrará uma breve explicação de como a cifra funciona,
 além de um algoritmo que criei em C++ para codificar e decodificar mensagens usando essa cifra.
 
 ## Introdução
