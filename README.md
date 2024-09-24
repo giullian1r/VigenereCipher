@@ -4,7 +4,6 @@ além de um algoritmo que criei em C++ para codificar e decodificar mensagens us
 
 ## Introdução
 
-
 A Cifra de Vigenere é uma técnica antiga de criptografia que utiliza substituições múltiplas com base em uma chave. Ela se baseia em uma matriz de 26x26 letras,
 conhecida como tabela de Vigenere, que é construída pela rotação do alfabeto em cada linha.
 
